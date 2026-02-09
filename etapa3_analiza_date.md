@@ -3,7 +3,7 @@
 **Disciplina:** Rețele Neuronale  
 **Instituție:** POLITEHNICA București – FIIR  
 **Student:** Chelu Fabian-Cătălin  
-**Data:** 17.01.2026  
+**Data:** 21.11.2025  
 
 ---
 
